@@ -1,0 +1,23 @@
+body {
+  background-color: #efefef;
+}
+header {
+  background-color: #ffffff;
+  margin: 4px;
+  padding: 8px;
+}
+main {
+  background-color: #ffffff;
+  margin: 4px;
+  padding: 8px;
+}
+footer {
+  background-color: #ffffff;
+  margin: 4px;
+  padding: 8px;
+}
+aside {
+  background-color: #ffffff;
+  margin: 4px;
+  padding: 8px;
+}
