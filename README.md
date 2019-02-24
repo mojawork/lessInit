@@ -1,4 +1,4 @@
-## Css Flexlayout 
+## Less Init
 
 - A simple setup to try out less and grunt 
 - Use grunt/ grunt-contrib-less to complete the less files.
