@@ -1,23 +1,36 @@
 body {
   background-color: #efefef;
 }
+html {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 62.5%;
+}
+h1,
+h2,
+h3,
+p,
+li,
+a {
+  font-size: 1.4rem;
+  color: #333333;
+}
 header {
   background-color: #ffffff;
-  margin: 4px;
-  padding: 8px;
+  margin: 2rem;
+  padding: 1rem;
 }
 main {
   background-color: #ffffff;
-  margin: 4px;
-  padding: 8px;
+  margin: 2rem;
+  padding: 1rem;
 }
 footer {
   background-color: #ffffff;
-  margin: 4px;
-  padding: 8px;
+  margin: 2rem;
+  padding: 1rem;
 }
 aside {
   background-color: #ffffff;
-  margin: 4px;
-  padding: 8px;
+  margin: 2rem;
+  padding: 1rem;
 }

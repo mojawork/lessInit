@@ -1,7 +1,6 @@
 {
   "name": "less-init",
   "version": "1.0.0",
-  "description": "simple setup for less - used grunt",
   "main": "index.js",
   "scripts": {
     "test": ""
@@ -9,7 +8,7 @@
   "author": "Markus Lungwitz",
   "license": "ISC",
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.3",
     "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-less": "^1.4.1",
     "grunt-contrib-watch": "^1.0.0",

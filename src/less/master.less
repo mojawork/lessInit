@@ -1,5 +1,6 @@
 
 @colorBody: #efefef;
+@colorFonts : #333333;
 
 @colorHeader:#ffffff;
 @colorMain:#ffffff;
@@ -11,8 +12,18 @@ body{
   background-color:@colorBody;
 }
 
-@margin : 4px;
-@padding : 8px;
+html {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:62.5%;
+}
+
+h1,h2,h3,p,li,a{
+  font-size: 1.4rem;
+  color:@colorFonts;
+}
+
+@margin :2rem;
+@padding : 1rem;
 
 @import "header.less";
 @import "header.less";
